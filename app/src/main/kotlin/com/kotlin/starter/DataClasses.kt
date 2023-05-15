@@ -1,4 +1,4 @@
-package kotlin.starter
+package com.kotlin.starter
 
 class User(val name: String, val age: Int)
 
